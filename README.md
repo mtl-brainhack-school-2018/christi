@@ -46,7 +46,7 @@ The neuroimaging data (structural MRI) come from patients’ subgroups belonging
 
 •	Create thresholded map showing areas of significant difference between PD and HC (and PDD and HC) over 4 years (similar to Fig.1 in https://www.nature.com/articles/s41467-017-02416-0)
 
-→ [(PD2-PD1)–(HC2-HC1)] and [(PDD2-PDD1)–(HC2-HC1)]
+	→ [(PD2-PD1)–(HC2-HC1)] and [(PDD2-PDD1)–(HC2-HC1)]
 
 •	Verify the relationship between the atrophy in different regions at baseline (and between the atrophy changes after 4 years) and the behavioral data (cognitive measures) in both PD subgroups
 
