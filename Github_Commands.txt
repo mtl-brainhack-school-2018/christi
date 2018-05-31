@@ -1,0 +1,39 @@
+Commands GitHub: 
+
+A) To refresh a folder:
+
+- git remote add upstream https://github.com/mtl/brainhack-school-2018/
+- git remote -v
+- git fetch upstream
+- git merge upstream/master
+
+B) To clone a directory on your computer
+
+- cd /gitdirectory/
+- git init (create a git directory)
+- ls -a
+- git clone https://...
+- git status
+- git add /nameOfTheDirectory/
+- git commit -a "Add nameOfTheFileOrDirectory"
+- git status (to verify the status of the clone directory)
+- git log (to verify the log)
+
+C) To change a file + send a pull request on GitHub (webSite)
+
+- git add nameOfTheFile.txt
+- git status
+- git commit -m "Comments"
+- git push
+- On GitHub: click on pull request
+
+D) Useful commands:
+ 
+- git diff nameofthefile : give the changes in the file
+- git remote -v (give the path of the master folder)
+- git rm origin (erase the path of the master folder)
+- git remote add origin (give a new path for the master branch)
+- git push (push to GitHub)
+- git remove (remove a file)
+- git clone (copy someone else file on your computer)
+- git remote add origin (give the path of the master folder)
